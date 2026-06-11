@@ -19,7 +19,7 @@ azatutyun_classifier/
 
 ⚙️ Installation
 
-bash# 1. Clone the repository
+# 1. Clone the repository
 git clone https://github.com/VahagnAvanesyan/NewsBot.git
 cd NewsBot
 

@@ -1,0 +1,145 @@
+2026-06-11 22:43:43 [scraper] INFO: ═══ Начинаю сбор: Սպորտ (цель: 100) ═══
+2026-06-11 22:43:43 [scraper] INFO: [Սպորտ] Страница 1: https://www.azatutyun.am/z/1517 (0/100)
+2026-06-11 22:43:44 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517 (попытка 1)
+2026-06-11 22:43:46 [scraper] INFO: [Սպորտ] Страница 2: https://www.azatutyun.am/z/1517?p=2 (0/100)
+2026-06-11 22:43:46 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=2 (попытка 1)
+2026-06-11 22:43:49 [scraper] INFO: [Սպորտ] Страница 3: https://www.azatutyun.am/z/1517?p=3 (0/100)
+2026-06-11 22:43:50 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=3 (попытка 1)
+2026-06-11 22:43:52 [scraper] INFO: [Սպորտ] Страница 4: https://www.azatutyun.am/z/1517?p=4 (0/100)
+2026-06-11 22:43:53 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=4 (попытка 1)
+2026-06-11 22:43:55 [scraper] INFO: [Սպորտ] Страница 5: https://www.azatutyun.am/z/1517?p=5 (0/100)
+2026-06-11 22:43:55 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=5 (попытка 1)
+2026-06-11 22:43:55 [scraper] WARNING: [Սպորտ] 5 пустых страниц подряд — завершаю
+2026-06-11 22:43:55 [scraper] INFO: [Սպորտ] Собрано: 0 статей
+2026-06-11 22:43:55 [scraper] INFO: ═══ Начинаю сбор: Քաղաքական (цель: 100) ═══
+2026-06-11 22:43:55 [scraper] INFO: [Քաղաքական] Страница 1: https://www.azatutyun.am/z/1516 (0/100)
+2026-06-11 22:43:55 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516 (попытка 1)
+2026-06-11 22:43:57 [scraper] INFO: [Քաղաքական] Страница 2: https://www.azatutyun.am/z/1516?p=2 (0/100)
+2026-06-11 22:43:57 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=2 (попытка 1)
+2026-06-11 22:43:59 [scraper] INFO: [Քաղաքական] Страница 3: https://www.azatutyun.am/z/1516?p=3 (0/100)
+2026-06-11 22:43:59 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=3 (попытка 1)
+2026-06-11 22:44:01 [scraper] INFO: [Քաղաքական] Страница 4: https://www.azatutyun.am/z/1516?p=4 (0/100)
+2026-06-11 22:44:01 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=4 (попытка 1)
+2026-06-11 22:44:03 [scraper] INFO: [Քաղաքական] Страница 5: https://www.azatutyun.am/z/1516?p=5 (0/100)
+2026-06-11 22:44:04 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=5 (попытка 1)
+2026-06-11 22:44:04 [scraper] WARNING: [Քաղաքական] 5 пустых страниц подряд — завершаю
+2026-06-11 22:44:04 [scraper] INFO: [Քաղաքական] Собрано: 0 статей
+2026-06-11 22:44:04 [scraper] ERROR: Не удалось собрать ни одной статьи!
+2026-06-11 22:48:13 [scraper] INFO: ═══ Начинаю сбор: Սպորտ (цель: 100) ═══
+2026-06-11 22:48:13 [scraper] INFO: [Սպորտ] Страница 1: https://www.azatutyun.am/z/1517 (0/100)
+2026-06-11 22:48:14 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517 (попытка 1)
+2026-06-11 22:48:16 [scraper] INFO: [Սպորտ] Страница 2: https://www.azatutyun.am/z/1517?p=2 (0/100)
+2026-06-11 22:48:16 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=2 (попытка 1)
+2026-06-11 22:48:20 [scraper] INFO: [Սպորտ] Страница 3: https://www.azatutyun.am/z/1517?p=3 (0/100)
+2026-06-11 22:48:20 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=3 (попытка 1)
+2026-06-11 22:48:23 [scraper] INFO: [Սպորտ] Страница 4: https://www.azatutyun.am/z/1517?p=4 (0/100)
+2026-06-11 22:48:23 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=4 (попытка 1)
+2026-06-11 22:48:26 [scraper] INFO: [Սպորտ] Страница 5: https://www.azatutyun.am/z/1517?p=5 (0/100)
+2026-06-11 22:48:26 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1517?p=5 (попытка 1)
+2026-06-11 22:48:26 [scraper] WARNING: [Սպորտ] 5 пустых страниц подряд — завершаю
+2026-06-11 22:48:26 [scraper] INFO: [Սպորտ] Собрано: 0 статей
+2026-06-11 22:48:26 [scraper] INFO: ═══ Начинаю сбор: Քաղաքական (цель: 100) ═══
+2026-06-11 22:48:26 [scraper] INFO: [Քաղաքական] Страница 1: https://www.azatutyun.am/z/1516 (0/100)
+2026-06-11 22:48:26 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516 (попытка 1)
+2026-06-11 22:48:29 [scraper] INFO: [Քաղաքական] Страница 2: https://www.azatutyun.am/z/1516?p=2 (0/100)
+2026-06-11 22:48:29 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=2 (попытка 1)
+2026-06-11 22:48:31 [scraper] INFO: [Քաղաքական] Страница 3: https://www.azatutyun.am/z/1516?p=3 (0/100)
+2026-06-11 22:48:31 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=3 (попытка 1)
+2026-06-11 22:48:34 [scraper] INFO: [Քաղաքական] Страница 4: https://www.azatutyun.am/z/1516?p=4 (0/100)
+2026-06-11 22:48:35 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=4 (попытка 1)
+2026-06-11 22:48:36 [scraper] INFO: [Քաղաքական] Страница 5: https://www.azatutyun.am/z/1516?p=5 (0/100)
+2026-06-11 22:48:36 [scraper] WARNING: HTTP 404 для https://www.azatutyun.am/z/1516?p=5 (попытка 1)
+2026-06-11 22:48:36 [scraper] WARNING: [Քաղաքական] 5 пустых страниц подряд — завершаю
+2026-06-11 22:48:36 [scraper] INFO: [Քաղաքական] Собрано: 0 статей
+2026-06-11 22:48:36 [scraper] ERROR: Не удалось собрать ни одной статьи!
+2026-06-11 22:50:38 [scraper] INFO: ═══ Начинаю сбор: Սպորտ (цель: 100) ═══
+2026-06-11 22:50:38 [scraper] INFO: [Սպորտ] Страница 1: https://www.azatutyun.am/z/15473 (0/100)
+2026-06-11 22:51:13 [scraper] INFO: [Սպորտ] Стр. 1: +12 | итого 12
+2026-06-11 22:51:14 [scraper] INFO: [Սպորտ] Страница 2: https://www.azatutyun.am/z/15473?p=2 (12/100)
+2026-06-11 22:51:49 [scraper] INFO: [Սպորտ] Стр. 2: +12 | итого 24
+2026-06-11 22:51:51 [scraper] INFO: [Սպորտ] Страница 3: https://www.azatutyun.am/z/15473?p=3 (24/100)
+2026-06-11 22:52:26 [scraper] INFO: [Սպորտ] Стр. 3: +12 | итого 36
+2026-06-11 22:52:27 [scraper] INFO: [Սպորտ] Страница 4: https://www.azatutyun.am/z/15473?p=4 (36/100)
+2026-06-11 22:53:04 [scraper] INFO: [Սպորտ] Стр. 4: +12 | итого 48
+2026-06-11 22:53:07 [scraper] INFO: [Սպորտ] Страница 5: https://www.azatutyun.am/z/15473?p=5 (48/100)
+2026-06-11 22:53:37 [scraper] INFO: [Սպորտ] Стр. 5: +12 | итого 60
+2026-06-11 22:53:40 [scraper] INFO: [Սպորտ] Страница 6: https://www.azatutyun.am/z/15473?p=6 (60/100)
+2026-06-11 22:54:13 [scraper] INFO: [Սպորտ] Стр. 6: +12 | итого 72
+2026-06-11 22:54:16 [scraper] INFO: [Սպորտ] Страница 7: https://www.azatutyun.am/z/15473?p=7 (72/100)
+2026-06-11 22:54:53 [scraper] INFO: [Սպորտ] Стр. 7: +12 | итого 84
+2026-06-11 22:54:56 [scraper] INFO: [Սպորտ] Страница 8: https://www.azatutyun.am/z/15473?p=8 (84/100)
+2026-06-11 22:55:31 [scraper] INFO: [Սպորտ] Стр. 8: +12 | итого 96
+2026-06-11 22:55:34 [scraper] INFO: [Սպորտ] Страница 9: https://www.azatutyun.am/z/15473?p=9 (96/100)
+2026-06-11 22:55:44 [scraper] INFO: [Սպորտ] Checkpoint сохранён: 100 статей
+2026-06-11 22:56:05 [scraper] INFO: [Սպորտ] Стр. 9: +12 | итого 108
+2026-06-11 22:56:07 [scraper] INFO: [Սպորտ] Собрано: 108 статей
+2026-06-11 22:56:07 [scraper] INFO: ═══ Начинаю сбор: Քաղաքական (цель: 100) ═══
+2026-06-11 22:56:07 [scraper] INFO: [Քաղաքական] Страница 1: https://www.azatutyun.am/z/2039 (0/100)
+2026-06-11 22:56:39 [scraper] INFO: [Քաղաքական] Стр. 1: +12 | итого 12
+2026-06-11 22:56:41 [scraper] INFO: [Քաղաքական] Страница 2: https://www.azatutyun.am/z/2039?p=2 (12/100)
+2026-06-11 22:57:14 [scraper] INFO: [Քաղաքական] Стр. 2: +12 | итого 24
+2026-06-11 22:57:17 [scraper] INFO: [Քաղաքական] Страница 3: https://www.azatutyun.am/z/2039?p=3 (24/100)
+2026-06-11 22:57:51 [scraper] INFO: [Քաղաքական] Стр. 3: +12 | итого 36
+2026-06-11 22:57:53 [scraper] INFO: [Քաղաքական] Страница 4: https://www.azatutyun.am/z/2039?p=4 (36/100)
+2026-06-11 22:58:28 [scraper] INFO: [Քաղաքական] Стр. 4: +12 | итого 48
+2026-06-11 22:58:31 [scraper] INFO: [Քաղաքական] Страница 5: https://www.azatutyun.am/z/2039?p=5 (48/100)
+2026-06-11 22:59:05 [scraper] INFO: [Քաղաքական] Стр. 5: +12 | итого 60
+2026-06-11 22:59:07 [scraper] INFO: [Քաղաքական] Страница 6: https://www.azatutyun.am/z/2039?p=6 (60/100)
+2026-06-11 22:59:44 [scraper] INFO: [Քաղաքական] Стр. 6: +12 | итого 72
+2026-06-11 22:59:46 [scraper] INFO: [Քաղաքական] Страница 7: https://www.azatutyun.am/z/2039?p=7 (72/100)
+2026-06-11 23:00:22 [scraper] INFO: [Քաղաքական] Стр. 7: +12 | итого 84
+2026-06-11 23:00:26 [scraper] INFO: [Քաղաքական] Страница 8: https://www.azatutyun.am/z/2039?p=8 (84/100)
+2026-06-11 23:01:01 [scraper] INFO: [Քաղաքական] Стр. 8: +12 | итого 96
+2026-06-11 23:01:03 [scraper] INFO: [Քաղաքական] Страница 9: https://www.azatutyun.am/z/2039?p=9 (96/100)
+2026-06-11 23:01:15 [scraper] INFO: [Քաղաքական] Checkpoint сохранён: 100 статей
+2026-06-11 23:01:38 [scraper] INFO: [Քաղաքական] Стр. 9: +12 | итого 108
+2026-06-11 23:01:41 [scraper] INFO: [Քաղաքական] Собрано: 108 статей
+2026-06-11 23:01:41 [scraper] INFO: ═══ Готово! Сохранено 215 статей в azatutyun_news.csv ═══
+2026-06-11 23:01:41 [scraper] INFO: Распределение:
+label
+Քաղաքական    108
+Սպորտ        107
+2026-06-11 23:25:39 [scraper] INFO: ═══ Начинаю сбор: Սպորտ (цель: 5000) ═══
+2026-06-11 23:25:39 [scraper] INFO: [Սպորտ] Checkpoint загружен: 108 статей
+2026-06-11 23:25:39 [scraper] INFO: [Սպորտ] Страница 1: https://www.azatutyun.am/z/15473 (108/5000)
+2026-06-11 23:25:40 [scraper] INFO: [Սպորտ] Стр. 1: +0 | итого 108
+2026-06-11 23:25:41 [scraper] INFO: [Սպորտ] Страница 2: https://www.azatutyun.am/z/15473?p=2 (108/5000)
+2026-06-11 23:25:42 [scraper] INFO: [Սպորտ] Стр. 2: +0 | итого 108
+2026-06-11 23:25:43 [scraper] INFO: [Սպորտ] Страница 3: https://www.azatutyun.am/z/15473?p=3 (108/5000)
+2026-06-11 23:25:44 [scraper] INFO: [Սպորտ] Стр. 3: +0 | итого 108
+2026-06-11 23:25:47 [scraper] INFO: [Սպորտ] Страница 4: https://www.azatutyun.am/z/15473?p=4 (108/5000)
+2026-06-11 23:25:47 [scraper] INFO: [Սպորտ] Стр. 4: +0 | итого 108
+2026-06-11 23:25:49 [scraper] INFO: [Սպորտ] Страница 5: https://www.azatutyun.am/z/15473?p=5 (108/5000)
+2026-06-11 23:25:50 [scraper] INFO: [Սպորտ] Стр. 5: +0 | итого 108
+2026-06-11 23:25:53 [scraper] INFO: [Սպորտ] Страница 6: https://www.azatutyun.am/z/15473?p=6 (108/5000)
+2026-06-11 23:25:53 [scraper] INFO: [Սպորտ] Стр. 6: +0 | итого 108
+2026-06-11 23:25:55 [scraper] INFO: [Սպորտ] Страница 7: https://www.azatutyun.am/z/15473?p=7 (108/5000)
+2026-06-11 23:25:55 [scraper] INFO: [Սպորտ] Стр. 7: +0 | итого 108
+2026-06-11 23:25:58 [scraper] INFO: [Սպորտ] Страница 8: https://www.azatutyun.am/z/15473?p=8 (108/5000)
+2026-06-11 23:25:58 [scraper] INFO: [Սպորտ] Стр. 8: +0 | итого 108
+2026-06-11 23:26:00 [scraper] INFO: [Սպորտ] Страница 9: https://www.azatutyun.am/z/15473?p=9 (108/5000)
+2026-06-11 23:26:00 [scraper] INFO: [Սպորտ] Стр. 9: +0 | итого 108
+2026-06-11 23:26:02 [scraper] INFO: [Սպորտ] Страница 10: https://www.azatutyun.am/z/15473?p=10 (108/5000)
+2026-06-11 23:26:36 [scraper] INFO: [Սպորտ] Стр. 10: +12 | итого 120
+2026-06-11 23:26:39 [scraper] INFO: [Սպորտ] Страница 11: https://www.azatutyun.am/z/15473?p=11 (120/5000)
+2026-06-11 23:27:10 [scraper] INFO: [Սպորտ] Стр. 11: +12 | итого 132
+2026-06-11 23:27:12 [scraper] INFO: [Սպորտ] Страница 12: https://www.azatutyun.am/z/15473?p=12 (132/5000)
+2026-06-11 23:27:47 [scraper] INFO: [Սպորտ] Стр. 12: +12 | итого 144
+2026-06-11 23:27:51 [scraper] INFO: [Սպորտ] Страница 13: https://www.azatutyun.am/z/15473?p=13 (144/5000)
+2026-06-11 23:28:24 [scraper] INFO: [Սպորտ] Стр. 13: +12 | итого 156
+2026-06-11 23:28:26 [scraper] INFO: [Սպորտ] Страница 14: https://www.azatutyun.am/z/15473?p=14 (156/5000)
+2026-06-11 23:28:58 [scraper] INFO: [Սպորտ] Стр. 14: +12 | итого 168
+2026-06-11 23:29:00 [scraper] INFO: [Սպորտ] Страница 15: https://www.azatutyun.am/z/15473?p=15 (168/5000)
+2026-06-11 23:29:34 [scraper] INFO: [Սպորտ] Стр. 15: +12 | итого 180
+2026-06-11 23:29:36 [scraper] INFO: [Սպորտ] Страница 16: https://www.azatutyun.am/z/15473?p=16 (180/5000)
+2026-06-11 23:30:09 [scraper] INFO: [Սպորտ] Стр. 16: +12 | итого 192
+2026-06-11 23:30:12 [scraper] INFO: [Սպորտ] Страница 17: https://www.azatutyun.am/z/15473?p=17 (192/5000)
+2026-06-11 23:30:38 [scraper] INFO: [Սպորտ] Checkpoint сохранён: 200 статей
+2026-06-11 23:30:51 [scraper] INFO: [Սպորտ] Стр. 17: +12 | итого 204
+2026-06-11 23:30:53 [scraper] INFO: [Սպորտ] Страница 18: https://www.azatutyun.am/z/15473?p=18 (204/5000)
+2026-06-11 23:31:26 [scraper] INFO: [Սպորտ] Стр. 18: +12 | итого 216
+2026-06-11 23:31:28 [scraper] INFO: [Սպորտ] Страница 19: https://www.azatutyun.am/z/15473?p=19 (216/5000)
+2026-06-11 23:32:01 [scraper] INFO: [Սպորտ] Стр. 19: +12 | итого 228
+2026-06-11 23:32:03 [scraper] INFO: [Սպորտ] Страница 20: https://www.azatutyun.am/z/15473?p=20 (228/5000)
+2026-06-11 23:32:38 [scraper] INFO: [Սպորտ] Стр. 20: +12 | итого 240
+2026-06-11 23:32:40 [scraper] INFO: [Սպորտ] Страница 21: https://www.azatutyun.am/z/15473?p=21 (240/5000)

@@ -96,6 +96,8 @@ ML: scikit-learn — TF-IDF (char n-grams) + Logistic Regression
 Bot: python-telegram-bot v20 (async)
 Language: Armenian 🇦🇲 (UTF-8)
 
+# Bot Preview
+<img width="838" height="982" alt="image" src="https://github.com/user-attachments/assets/fc418d94-ce19-460b-8fd5-ba9e28d07d8d" />
 
 
 👤 Author
